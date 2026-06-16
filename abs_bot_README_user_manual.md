@@ -10,6 +10,7 @@
 - 官方通知频道：`https://t.me/YueErFM_notify`
 - 用户管理 Bot：`https://t.me/yhabs_bot`
 - 腐竹 Bot：`https://t.me/makichat_bot`
+- 书单地址：`https://docs.google.com/spreadsheets/d/1m6wSFBfru3yI1N_gRKh3jHl8y8phsJLgL8P2erG9h6E/edit?usp=sharing`
 
 说明：
 
